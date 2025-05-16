@@ -29,23 +29,6 @@ Cada carta contém:
 
 🧠 Super Poder (soma ponderada dos outros atributos)
 
-⚙️ Como Rodar
-Compile o código com um compilador C (ex: GCC):
-
-bash
-Copiar
-Editar
-gcc super_trunfo.c -o super_trunfo
-Execute no terminal:
-
-bash
-Copiar
-Editar
-./super_trunfo
-Escolha a carta (1 para Santa Catarina ou 2 para Paraná) e veja o resultado da batalha!
-
-⚠️ Obs: use um terminal que suporte cores ANSI (como o terminal do Linux, macOS ou Windows Terminal moderno).
-
 📁 Sobre o Código
 O código está em um único arquivo: super_trunfo.c
 
