@@ -30,6 +30,7 @@ Cada carta contém:
 🧠 Super Poder (soma ponderada dos outros atributos)
 
 📁 Sobre o Código
+
 O código está em um único arquivo: super_trunfo.c
 
 As cartas são criadas com struct
