@@ -1,5 +1,5 @@
 🃏 Super Trunfo dos Estados – Jogo em C
-Esse é um projeto simples do tipo Super Trunfo, feito em linguagem C como trabalho da faculdade. A ideia foi comparar dois estados brasileiros (🇧🇷 Santa Catarina e Paraná), usando atributos como população, PIB, área, etc.
+Esse é um projeto simples do tipo Super Trunfo, feito em linguagem C como trabalho da faculdade. A ideia foi comparar dois estados brasileiros (Santa Catarina e Paraná), usando atributos como população, PIB, área, etc.
 
 🔍 Sobre o Jogo
 O jogador escolhe uma das duas cartas e o programa compara os atributos com a outra carta. Cada atributo é analisado separadamente e o resultado mostra quem venceu em cada item.
