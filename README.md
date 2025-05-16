@@ -41,6 +41,9 @@ A comparação é feita atributo por atributo
 Esse projeto é uma base simples e pode ser expandida para mais cartas, mais jogadores, ou até entrada por arquivo no futuro.
 
 👨‍💻 Feito por: Rodrigo Gomes
+
 📘 Disciplina: Introdução à Programação de Computadores
+
 🏫 Faculdade: Estácio de Sá
+
 👨‍🏫 Professor: Sérgio Cardoso
