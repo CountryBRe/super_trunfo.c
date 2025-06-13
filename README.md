@@ -48,3 +48,12 @@ Esse projeto é uma base simples e pode ser expandida para mais cartas, mais jog
 🏫 Faculdade: Estácio de Sá
 
 👨‍🏫 Professor: Sérgio Cardoso
+
+✅ Como compilar e executar
+1. Compilar o código
+Abra o terminal, navegue até a pasta onde está o arquivo super_trunfo.c e execute o comando abaixo para compilar o programa usando o GCC:
+
+bash
+Copiar
+Editar
+gcc super_trunfo.c -o super_trunfo
