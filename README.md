@@ -57,3 +57,18 @@ bash
 Copiar
 Editar
 gcc super_trunfo.c -o super_trunfo
+2. Executar o programa
+Após a compilação, execute o programa com o comando:
+
+No Linux/macOS:
+
+bash
+Copiar
+Editar
+./super_trunfo
+No Windows (CMD ou PowerShell):
+
+bash
+Copiar
+Editar
+super_trunfo.exe
